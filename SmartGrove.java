@@ -1,7 +1,10 @@
 /*
  Progam Name: BSc Computing with foundation
- Module Title: 
- Author: Panagiotis Margetis
+ Module Title: SWE4305 Object Oriented Programming
+ Assessment Title: Smart Grove Management System
+ Name/Surname: Panagiotis Margetis
+ Marking Tutor: Mr. Konstantinos Tsakonas
+ Date of submission: 3/3/2026
 */
 
 public class SmartGrove {
@@ -191,4 +194,5 @@ class OliveTree extends Tree {
         return isGnarled;
     }
 }
+
 
