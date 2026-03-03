@@ -26,7 +26,6 @@ public class SmartGrove {
 
     public static void printTree(OliveTree tree) {
 
-        System.out.println("----------------------------");
         System.out.println("Tree ID: " + tree.getId());
         System.out.println("Olive Type: " + tree.getOliveType());
         System.out.println("Scientific Name: " + tree.getScientificName());
@@ -194,6 +193,7 @@ class OliveTree extends Tree {
         return isGnarled;
     }
 }
+
 
 
 
